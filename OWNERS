@@ -4,7 +4,7 @@ filters:
       - michal-hudy
     labels:
       - do-not-merge
-  '\.md$|/docs/':
+  '\.md':
     approvers:
       - mmitoraj
       - kazydek
