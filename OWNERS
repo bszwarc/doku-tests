@@ -1,0 +1,16 @@
+filters:
+  '.*':
+    approvers:
+      - michal-hudy
+    labels:
+      - do-not-merge
+  '\.md$|/docs/':
+    approvers:
+     - mmitoraj
+     - kazydek
+    reviewers:
+       - bszwarc
+      - tomekpapiernik
+       - klaudiagrz
+    labels:
+      - area/documentation
