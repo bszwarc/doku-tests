@@ -1,10 +1,10 @@
 filters:
-  ".*":
+  '.*':
     approvers:
       - michal-hudy
     labels:
       - do-not-merge
-  "\.md":
+  '\.md':
     approvers:
       - mmitoraj
       - kazydek
