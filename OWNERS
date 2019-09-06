@@ -6,11 +6,12 @@ filters:
       - do-not-merge
   '\.md$|/docs/':
     approvers:
-     - mmitoraj
-     - kazydek
+      - mmitoraj
+      - kazydek
     reviewers:
-       - bszwarc
+      - kazydek
+      - bszwarc
       - tomekpapiernik
-       - klaudiagrz
+      - klaudiagrz
     labels:
       - area/documentation
